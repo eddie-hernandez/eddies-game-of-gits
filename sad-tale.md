@@ -6,3 +6,5 @@ Dude died. Pretty sad.
 
 Joffrey Baratheon was the one to do Ned in, but his story was only about to
 begin, and let me assure you he will ___DEFINITELY NOT DIE!___
+
+Michael, Eddie, Quentin, and Hanna then came heroicly into the story and made a successful git pull.
